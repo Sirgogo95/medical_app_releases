@@ -1,9 +1,9 @@
 {
-  "version": "1.0.0",
-  "file": "MediApp-Setup-1.0.0.exe",
-  "url": "https://raw.githubusercontent.com/Sirgogo95/medical_app_releases/main/releases/v1.0.0/MediApp-Setup-1.0.0.exe",
-  "sha256": "97a174c68de7534db43a2121372b600df572b1211ca58d1de3010cd541444dea",
-  "size": 42168758,
+  "version": "1.0.1",
+  "file": "MediApp-Setup-1.0.1.exe",
+  "url": "https://raw.githubusercontent.com/Sirgogo95/medical_app_releases/main/releases/v1.0.1/MediApp-Setup-1.0.1.exe",
+  "sha256": "056d62e2a1deb13802c43b4ec8fe8de744b7be7759c8d47ec0638f02e07a3405",
+  "size": 42170087,
   "notes": "",
   "released": "2026-07-07"
 }
