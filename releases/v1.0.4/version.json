@@ -1,0 +1,10 @@
+{
+  "version": "1.0.4",
+  "file": "MediApp-Setup-1.0.4.exe",
+  "url": "https://raw.githubusercontent.com/Sirgogo95/medical_app_releases/main/releases/v1.0.4/MediApp-Setup-1.0.4.exe",
+  "sha256": "a2769c752fd695df7b21db91d0d57fa32e7c64ef496688b4a308190fa68439fd",
+  "size": 42200940,
+  "notes": "Correcciones de estabilidad al actualizar",
+  "released": "2026-07-08",
+  "required": false
+}
