@@ -1,0 +1,15 @@
+[
+  {
+    "key": "whisper-small",
+    "file": "ggml-small-q5_1.bin",
+    "label": "Whisper (es · en · fr)",
+    "languages": [
+      "es",
+      "en",
+      "fr"
+    ],
+    "url": "https://github.com/Sirgogo95/medical_app_releases/releases/download/models/ggml-small-q5_1.bin",
+    "sha256": "ae85e4a935d7a567bd102fe55afc16bb595bdb618e11b2fc7591bc08120411bb",
+    "size": 190085487
+  }
+]

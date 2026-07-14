@@ -1,0 +1,10 @@
+{
+  "version": "1.0.5",
+  "file": "MediApp-Setup-1.0.5.exe",
+  "url": "https://raw.githubusercontent.com/Sirgogo95/medical_app_releases/main/releases/v1.0.5/MediApp-Setup-1.0.5.exe",
+  "sha256": "7614e863fb6dd5d93ea0b2876bdad1f2aee0e91865dd38105185c41fbf401f29",
+  "size": 44736626,
+  "notes": "Dictado por voz sin conexión",
+  "released": "2026-07-13",
+  "required": false
+}
