@@ -1,0 +1,10 @@
+{
+  "version": "1.0.6",
+  "file": "MediApp-Setup-1.0.6.exe",
+  "url": "https://raw.githubusercontent.com/Sirgogo95/medical_app_releases/main/releases/v1.0.6/MediApp-Setup-1.0.6.exe",
+  "sha256": "2a0dc62cd0c531909d54f1e1f6f83c4c06a21862398294003a7a1f5795798e7b",
+  "size": 41051341,
+  "notes": "Copias de seguridad, acceso compartido en la red local, página de licencia (aún no exigida), datos en AppData, base de datos más robusta.",
+  "released": "2026-09-17",
+  "required": false
+}
