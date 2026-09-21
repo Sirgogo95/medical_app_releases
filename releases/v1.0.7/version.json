@@ -1,0 +1,10 @@
+{
+  "version": "1.0.7",
+  "file": "MediApp-Setup-1.0.7.exe",
+  "url": "https://raw.githubusercontent.com/Sirgogo95/medical_app_releases/main/releases/v1.0.7/MediApp-Setup-1.0.7.exe",
+  "sha256": "c0badbecf70e93bebc5c738ffcc24c24112044aa7983fa21ac566371402ca63b",
+  "size": 41151179,
+  "notes": "Écran de configuration au premier démarrage, correction du redémarrage après mise à jour, numéro de dossier papier sur la fiche du patient.",
+  "released": "2026-09-20",
+  "required": false
+}

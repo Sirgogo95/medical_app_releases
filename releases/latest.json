@@ -1,10 +1,10 @@
 {
-  "version": "1.0.6",
-  "file": "MediApp-Setup-1.0.6.exe",
-  "url": "https://raw.githubusercontent.com/Sirgogo95/medical_app_releases/main/releases/v1.0.6/MediApp-Setup-1.0.6.exe",
-  "sha256": "2a0dc62cd0c531909d54f1e1f6f83c4c06a21862398294003a7a1f5795798e7b",
-  "size": 41051341,
-  "notes": "Copias de seguridad, acceso compartido en la red local, página de licencia (aún no exigida), datos en AppData, base de datos más robusta.",
-  "released": "2026-09-17",
+  "version": "1.0.7",
+  "file": "MediApp-Setup-1.0.7.exe",
+  "url": "https://raw.githubusercontent.com/Sirgogo95/medical_app_releases/main/releases/v1.0.7/MediApp-Setup-1.0.7.exe",
+  "sha256": "c0badbecf70e93bebc5c738ffcc24c24112044aa7983fa21ac566371402ca63b",
+  "size": 41151179,
+  "notes": "Écran de configuration au premier démarrage, correction du redémarrage après mise à jour, numéro de dossier papier sur la fiche du patient.",
+  "released": "2026-09-20",
   "required": false
 }
