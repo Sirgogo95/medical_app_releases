@@ -1,10 +1,10 @@
 {
-  "version": "1.0.7",
-  "file": "MediApp-Setup-1.0.7.exe",
-  "url": "https://raw.githubusercontent.com/Sirgogo95/medical_app_releases/main/releases/v1.0.7/MediApp-Setup-1.0.7.exe",
-  "sha256": "c0badbecf70e93bebc5c738ffcc24c24112044aa7983fa21ac566371402ca63b",
-  "size": 41151179,
-  "notes": "Écran de configuration au premier démarrage, correction du redémarrage après mise à jour, numéro de dossier papier sur la fiche du patient.",
-  "released": "2026-09-20",
+  "version": "1.0.8",
+  "file": "MediApp-Setup-1.0.8.exe",
+  "url": "https://raw.githubusercontent.com/Sirgogo95/medical_app_releases/main/releases/v1.0.8/MediApp-Setup-1.0.8.exe",
+  "sha256": "0590b00af41cbd841e2081fc4a9550d655564453d6ed09fae8868599cc1d2067",
+  "size": 41195229,
+  "notes": "Onglet Parcours, texte sélectionnable et copiable, tension debout et fréquence respiratoire, bouton « D'après l'ordonnance » dans le Plan, recherche par plusieurs mots, plusieurs numéros sur l'ordonnance.",
+  "released": "2026-09-22",
   "required": false
 }

@@ -1,0 +1,10 @@
+{
+  "version": "1.0.8",
+  "file": "MediApp-Setup-1.0.8.exe",
+  "url": "https://raw.githubusercontent.com/Sirgogo95/medical_app_releases/main/releases/v1.0.8/MediApp-Setup-1.0.8.exe",
+  "sha256": "0590b00af41cbd841e2081fc4a9550d655564453d6ed09fae8868599cc1d2067",
+  "size": 41195229,
+  "notes": "Onglet Parcours, texte sélectionnable et copiable, tension debout et fréquence respiratoire, bouton « D'après l'ordonnance » dans le Plan, recherche par plusieurs mots, plusieurs numéros sur l'ordonnance.",
+  "released": "2026-09-22",
+  "required": false
+}
