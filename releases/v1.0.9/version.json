@@ -1,0 +1,15 @@
+{
+  "version": "1.0.9",
+  "file": "MediApp-Setup-1.0.9.exe",
+  "url": "https://raw.githubusercontent.com/Sirgogo95/medical_app_releases/main/releases/v1.0.9/MediApp-Setup-1.0.9.exe",
+  "sha256": "6d3945598f0a13c6eb8e0830580738d1c4d68167fcbe5eaddb48f8a8a0c1695c",
+  "size": 41231941,
+  "notes": "FR: L'ordonnance comme vous l'écrivez : forme et dosage à côté du nom, quantité à acheter à droite (60 comps), durée facultative. Poids, taille et température avec leur unité (kg ou lb, °C ou °F), enregistrée avec chaque consultation ; vos consultations passées sont en livres et en °C. Cette fenêtre parle désormais votre langue.\n\nES: La receta como usted la escribe: forma y concentración junto al nombre, cantidad a comprar a la derecha (60 comps), duración opcional. Peso, estatura y temperatura con su unidad (kg o lb, °C o °F), guardada con cada visita; sus visitas anteriores quedan en libras y °C. Esta ventana aparece ahora en su idioma.\n\nEN: The prescription the way you write it: form and strength beside the name, quantity to buy on the right (60 comps), duration optional. Weight, height and temperature with their unit (kg or lb, °C or °F), saved with each visit; your past visits are in pounds and °C. This window now speaks your language.",
+  "released": "2026-09-27",
+  "required": false,
+  "notes_i18n": {
+    "fr": "L'ordonnance comme vous l'écrivez : forme et dosage à côté du nom, quantité à acheter à droite (60 comps), durée facultative. Poids, taille et température avec leur unité (kg ou lb, °C ou °F), enregistrée avec chaque consultation ; vos consultations passées sont en livres et en °C. Cette fenêtre parle désormais votre langue.",
+    "es": "La receta como usted la escribe: forma y concentración junto al nombre, cantidad a comprar a la derecha (60 comps), duración opcional. Peso, estatura y temperatura con su unidad (kg o lb, °C o °F), guardada con cada visita; sus visitas anteriores quedan en libras y °C. Esta ventana aparece ahora en su idioma.",
+    "en": "The prescription the way you write it: form and strength beside the name, quantity to buy on the right (60 comps), duration optional. Weight, height and temperature with their unit (kg or lb, °C or °F), saved with each visit; your past visits are in pounds and °C. This window now speaks your language."
+  }
+}
