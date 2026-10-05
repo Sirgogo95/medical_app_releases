@@ -1,0 +1,15 @@
+{
+  "version": "1.0.10",
+  "file": "MediApp-Setup-1.0.10.exe",
+  "url": "https://raw.githubusercontent.com/Sirgogo95/medical_app_releases/main/releases/v1.0.10/MediApp-Setup-1.0.10.exe",
+  "sha256": "eb65b0388bc2a14dfea7bbb0ba54c760f2b6ab41086aa3002cc08949dd3235a8",
+  "size": 41250097,
+  "notes": "FR: Prescrire des analyses : toutes les analyses dans une grande fenêtre, par ordre alphabétique, avec la recherche en haut et les analyses cochées au-dessus de la liste. Le catalogue est nettoyé d'après vos réponses : 93 analyses au lieu de 173, sans doublons, et vos prescriptions passées suivent le nom gardé.\n\nES: Indicar análisis: todos los análisis en una ventana grande, por orden alfabético, con la búsqueda arriba y los análisis marcados sobre la lista. El catálogo queda depurado según sus respuestas: 93 análisis en lugar de 173, sin duplicados, y sus indicaciones anteriores siguen el nombre conservado.\n\nEN: Ordering exams: every analysis in one large window, in alphabetical order, with the search at the top and the ticked analyses above the list. The catalog is cleaned up from your answers: 93 analyses instead of 173, no duplicates, and your past orders follow the kept name.",
+  "released": "2026-10-04",
+  "required": false,
+  "notes_i18n": {
+    "fr": "Prescrire des analyses : toutes les analyses dans une grande fenêtre, par ordre alphabétique, avec la recherche en haut et les analyses cochées au-dessus de la liste. Le catalogue est nettoyé d'après vos réponses : 93 analyses au lieu de 173, sans doublons, et vos prescriptions passées suivent le nom gardé.",
+    "es": "Indicar análisis: todos los análisis en una ventana grande, por orden alfabético, con la búsqueda arriba y los análisis marcados sobre la lista. El catálogo queda depurado según sus respuestas: 93 análisis en lugar de 173, sin duplicados, y sus indicaciones anteriores siguen el nombre conservado.",
+    "en": "Ordering exams: every analysis in one large window, in alphabetical order, with the search at the top and the ticked analyses above the list. The catalog is cleaned up from your answers: 93 analyses instead of 173, no duplicates, and your past orders follow the kept name."
+  }
+}
