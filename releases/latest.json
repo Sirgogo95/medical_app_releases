@@ -1,15 +1,15 @@
 {
-  "version": "1.0.10",
-  "file": "MediApp-Setup-1.0.10.exe",
-  "url": "https://raw.githubusercontent.com/Sirgogo95/medical_app_releases/main/releases/v1.0.10/MediApp-Setup-1.0.10.exe",
-  "sha256": "eb65b0388bc2a14dfea7bbb0ba54c760f2b6ab41086aa3002cc08949dd3235a8",
-  "size": 41250097,
-  "notes": "FR: Prescrire des analyses : toutes les analyses dans une grande fenêtre, par ordre alphabétique, avec la recherche en haut et les analyses cochées au-dessus de la liste. Le catalogue est nettoyé d'après vos réponses : 93 analyses au lieu de 173, sans doublons, et vos prescriptions passées suivent le nom gardé.\n\nES: Indicar análisis: todos los análisis en una ventana grande, por orden alfabético, con la búsqueda arriba y los análisis marcados sobre la lista. El catálogo queda depurado según sus respuestas: 93 análisis en lugar de 173, sin duplicados, y sus indicaciones anteriores siguen el nombre conservado.\n\nEN: Ordering exams: every analysis in one large window, in alphabetical order, with the search at the top and the ticked analyses above the list. The catalog is cleaned up from your answers: 93 analyses instead of 173, no duplicates, and your past orders follow the kept name.",
-  "released": "2026-10-04",
+  "version": "1.0.11",
+  "file": "MediApp-Setup-1.0.11.exe",
+  "url": "https://raw.githubusercontent.com/Sirgogo95/medical_app_releases/main/releases/v1.0.11/MediApp-Setup-1.0.11.exe",
+  "sha256": "1f14477fc408b3e94c7525025a63aa38a99cd8f66f6b12cbaebec3772fa5dd77",
+  "size": 41352763,
+  "notes": "FR: Familles : chaque antécédent familial indique le proche (mère, père...), les cancers par localisation, et les membres d'une famille se lient sur le résumé du patient, avec leurs antécédents proposés. Femmes : DDR et grossesse dans la consultation, avec le terme calculé. Recherche sans accents, suggestions de ville, et un mode démo pour essayer sur des patients fictifs.\n\nES: Familias: cada antecedente familiar indica el familiar (madre, padre...), los cánceres por localización, y los miembros de una familia se vinculan en el resumen del paciente, con sus antecedentes propuestos. Mujeres: FUR y embarazo en la consulta, con la fecha probable de parto calculada. Búsqueda sin acentos, sugerencias de ciudad y un modo demostración para probar con pacientes ficticios.\n\nEN: Families: each family-history item names the relative (mother, father...), cancers by site, and family members are linked on the patient summary, with their history offered. Women: last period and pregnancy on the visit, with the due date worked out. Accent-free search, city suggestions, and a demo mode to try the app on made-up patients.",
+  "released": "2026-11-07",
   "required": false,
   "notes_i18n": {
-    "fr": "Prescrire des analyses : toutes les analyses dans une grande fenêtre, par ordre alphabétique, avec la recherche en haut et les analyses cochées au-dessus de la liste. Le catalogue est nettoyé d'après vos réponses : 93 analyses au lieu de 173, sans doublons, et vos prescriptions passées suivent le nom gardé.",
-    "es": "Indicar análisis: todos los análisis en una ventana grande, por orden alfabético, con la búsqueda arriba y los análisis marcados sobre la lista. El catálogo queda depurado según sus respuestas: 93 análisis en lugar de 173, sin duplicados, y sus indicaciones anteriores siguen el nombre conservado.",
-    "en": "Ordering exams: every analysis in one large window, in alphabetical order, with the search at the top and the ticked analyses above the list. The catalog is cleaned up from your answers: 93 analyses instead of 173, no duplicates, and your past orders follow the kept name."
+    "fr": "Familles : chaque antécédent familial indique le proche (mère, père...), les cancers par localisation, et les membres d'une famille se lient sur le résumé du patient, avec leurs antécédents proposés. Femmes : DDR et grossesse dans la consultation, avec le terme calculé. Recherche sans accents, suggestions de ville, et un mode démo pour essayer sur des patients fictifs.",
+    "es": "Familias: cada antecedente familiar indica el familiar (madre, padre...), los cánceres por localización, y los miembros de una familia se vinculan en el resumen del paciente, con sus antecedentes propuestos. Mujeres: FUR y embarazo en la consulta, con la fecha probable de parto calculada. Búsqueda sin acentos, sugerencias de ciudad y un modo demostración para probar con pacientes ficticios.",
+    "en": "Families: each family-history item names the relative (mother, father...), cancers by site, and family members are linked on the patient summary, with their history offered. Women: last period and pregnancy on the visit, with the due date worked out. Accent-free search, city suggestions, and a demo mode to try the app on made-up patients."
   }
 }

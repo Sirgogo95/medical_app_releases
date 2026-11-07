@@ -1,0 +1,15 @@
+{
+  "version": "1.0.11",
+  "file": "MediApp-Setup-1.0.11.exe",
+  "url": "https://raw.githubusercontent.com/Sirgogo95/medical_app_releases/main/releases/v1.0.11/MediApp-Setup-1.0.11.exe",
+  "sha256": "1f14477fc408b3e94c7525025a63aa38a99cd8f66f6b12cbaebec3772fa5dd77",
+  "size": 41352763,
+  "notes": "FR: Familles : chaque antécédent familial indique le proche (mère, père...), les cancers par localisation, et les membres d'une famille se lient sur le résumé du patient, avec leurs antécédents proposés. Femmes : DDR et grossesse dans la consultation, avec le terme calculé. Recherche sans accents, suggestions de ville, et un mode démo pour essayer sur des patients fictifs.\n\nES: Familias: cada antecedente familiar indica el familiar (madre, padre...), los cánceres por localización, y los miembros de una familia se vinculan en el resumen del paciente, con sus antecedentes propuestos. Mujeres: FUR y embarazo en la consulta, con la fecha probable de parto calculada. Búsqueda sin acentos, sugerencias de ciudad y un modo demostración para probar con pacientes ficticios.\n\nEN: Families: each family-history item names the relative (mother, father...), cancers by site, and family members are linked on the patient summary, with their history offered. Women: last period and pregnancy on the visit, with the due date worked out. Accent-free search, city suggestions, and a demo mode to try the app on made-up patients.",
+  "released": "2026-11-07",
+  "required": false,
+  "notes_i18n": {
+    "fr": "Familles : chaque antécédent familial indique le proche (mère, père...), les cancers par localisation, et les membres d'une famille se lient sur le résumé du patient, avec leurs antécédents proposés. Femmes : DDR et grossesse dans la consultation, avec le terme calculé. Recherche sans accents, suggestions de ville, et un mode démo pour essayer sur des patients fictifs.",
+    "es": "Familias: cada antecedente familiar indica el familiar (madre, padre...), los cánceres por localización, y los miembros de una familia se vinculan en el resumen del paciente, con sus antecedentes propuestos. Mujeres: FUR y embarazo en la consulta, con la fecha probable de parto calculada. Búsqueda sin acentos, sugerencias de ciudad y un modo demostración para probar con pacientes ficticios.",
+    "en": "Families: each family-history item names the relative (mother, father...), cancers by site, and family members are linked on the patient summary, with their history offered. Women: last period and pregnancy on the visit, with the due date worked out. Accent-free search, city suggestions, and a demo mode to try the app on made-up patients."
+  }
+}
